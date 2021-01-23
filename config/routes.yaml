@@ -1,0 +1,3 @@
+index:
+    path: /Accueil
+    controller: App\Controller\ProjetEFormationController::Accueil
